@@ -1,6 +1,3 @@
-# Reflection
-This was my first project working with any kind of machine learning. Overall this project was fairly simple to complete; however, I learned a lot about model selection and evaluation.
-
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
@@ -56,3 +53,6 @@ The modified census dataset consists of approximately 32,000 data points, with e
 
 **Target Variable**
 - `income`: Income Class (<=50K, >50K)
+
+# Reflection
+This was my first project working with any kind of machine learning. Overall this project was fairly simple to complete; however, I learned a lot about model selection and evaluation.
