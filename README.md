@@ -1,3 +1,5 @@
+# Reflection
+This was my first project working with any kind of machine learning. Overall this project was fairly simple to complete; however, I learned a lot about model selection and evaluation.
 
 # Supervised Learning
 ## Project: Finding Donors for CharityML
